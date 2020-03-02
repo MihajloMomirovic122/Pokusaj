@@ -11,5 +11,7 @@ namespace Konsultacije
         public double MaxCena { get; set; }
 
         public double MinCena { get; set; }
+
+        //DodaTNO sadasd
     }
 }
